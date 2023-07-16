@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "version": "1.0",
   "name": "WTT Extension",
-  "description": "An unofficial plugin to make WTT website friendlier to users",
+  "description": "An unofficial plugin to make the WTT website friendlier for users",
   "content_scripts": [
     {
       "matches": ["*://worldtabletennis.com/*"],
